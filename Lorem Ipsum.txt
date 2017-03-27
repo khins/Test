@@ -1,1 +1,1 @@
-this is now updated text again
+this is an example of using git within sourcetree 
